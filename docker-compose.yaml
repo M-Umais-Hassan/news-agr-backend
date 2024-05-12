@@ -6,5 +6,5 @@ services:
     ports:
       - "5000:5000"
     environment:
-      - API_KEY=1d81103567524b21a8777fd705eb4e5d
-      - NY_TIMES_API_KEY=RpXloCWt8Qq3w9aH1eXsOSyujKcmqyeW
+      - API_KEY=YOUR_API_KEY
+      - NY_TIMES_API_KEY=YOUR_API_KEY
